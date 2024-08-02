@@ -1,0 +1,8 @@
+{
+    "name": "esp-ai-plugin-llm-ollama",
+    "keywords": ["esp-ai-plugin", "esp-ai-plugin-llm"],
+    "version": "0.0.1",
+    "description": "ESP-AI LLM Plugin Ollama Qwen2 | ESP-AI LLM Ollama 千问2",
+    "main": "index.js"
+}
+  
